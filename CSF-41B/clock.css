@@ -1,0 +1,18 @@
+.clock {
+    width: 40%;
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid #4182e4;
+    border-radius: 10px;
+    padding: 50px;
+    color: aqua;
+    background-color: #000000;
+    margin: auto;
+    margin-top: 15%;
+}
+body {
+    background-image: url("image/photo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
